@@ -1,0 +1,27 @@
+[
+    {
+        "ProId":1,
+        "ProName":"Samsung",
+        "ProPrice":150
+    },
+    {
+        "ProId":2,
+        "ProName":"Iphone",
+        "ProPrice":200
+    },
+    {
+        "ProId":3,
+        "ProName":"OPPO",
+        "ProPrice":250
+    },
+    {
+        "ProId":4,
+        "ProName":"SONY",
+        "ProPrice":250
+    },
+    {
+        "ProId":5,
+        "ProName":"Nokia",
+        "ProPrice":250
+    }
+]

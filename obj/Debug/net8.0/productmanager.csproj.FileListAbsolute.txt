@@ -1,0 +1,28 @@
+/Applications/Document /Learning Unity/productmanager/bin/Debug/net8.0/productmanager
+/Applications/Document /Learning Unity/productmanager/bin/Debug/net8.0/productmanager.deps.json
+/Applications/Document /Learning Unity/productmanager/bin/Debug/net8.0/productmanager.runtimeconfig.json
+/Applications/Document /Learning Unity/productmanager/bin/Debug/net8.0/productmanager.dll
+/Applications/Document /Learning Unity/productmanager/bin/Debug/net8.0/productmanager.pdb
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/productmanager.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/productmanager.AssemblyInfoInputs.cache
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/productmanager.AssemblyInfo.cs
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/productmanager.csproj.CoreCompileInputs.cache
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/productmanager.dll
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/refint/productmanager.dll
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/productmanager.pdb
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/productmanager.genruntimeconfig.cache
+/Applications/Document /Learning Unity/productmanager/obj/Debug/net8.0/ref/productmanager.dll
+/Applications/Document/Learning Unity/productmanager/bin/Debug/net8.0/productmanager
+/Applications/Document/Learning Unity/productmanager/bin/Debug/net8.0/productmanager.deps.json
+/Applications/Document/Learning Unity/productmanager/bin/Debug/net8.0/productmanager.runtimeconfig.json
+/Applications/Document/Learning Unity/productmanager/bin/Debug/net8.0/productmanager.dll
+/Applications/Document/Learning Unity/productmanager/bin/Debug/net8.0/productmanager.pdb
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/productmanager.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/productmanager.AssemblyInfoInputs.cache
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/productmanager.AssemblyInfo.cs
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/productmanager.csproj.CoreCompileInputs.cache
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/productmanager.dll
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/refint/productmanager.dll
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/productmanager.pdb
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/productmanager.genruntimeconfig.cache
+/Applications/Document/Learning Unity/productmanager/obj/Debug/net8.0/ref/productmanager.dll
